@@ -4,8 +4,7 @@ Welcome to my profile! I'm **Nurfadli Febriana**, a passionate developer and tec
 
 ## About Me
 - 🎓 I am a student at **Universitas Sebelas April Sumedang**, majoring in **Informatics Engineering**.
-- 🌱 Currently learning **Java** and other programming languages in my university courses.
-- 💻 I am also developing Discord bots and building cool apps for my personal growth.
+- dunno what next about me sadlyy<(＿　＿)>
 
 
 <p align="center">
@@ -18,9 +17,9 @@ Welcome to my profile! I'm **Nurfadli Febriana**, a passionate developer and tec
 ## 📊 My GitHub Stats
 
 <p align="center">
-<a href="https://github.com/KatowProject">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fbrynnafdli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fbrynnafdli&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/fbrynnafdli">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fbrynnafdli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fbrynnafdli&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 
