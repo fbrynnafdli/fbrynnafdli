@@ -18,9 +18,9 @@ Welcome to my profile! I'm **Nurfadli Febriana**, a passionate developer and tec
 
 
 <p align="center">
-<a href="https://github.com/KatowProject">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KatowProject&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KatowProject&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/fbrynna">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fbrynna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fbrynna&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 
