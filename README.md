@@ -4,7 +4,7 @@ Welcome to my profile! I'm **Nurfadli Febriana**, a passionate developer and tec
 
 ## About Me
 - 🎓 I am a student at **Universitas Sebelas April Sumedang**, majoring in **Informatics Engineering**.
-- dunno what next about me sadlyy<(＿　＿)>
+- tbd
 
 
 <p align="center">
