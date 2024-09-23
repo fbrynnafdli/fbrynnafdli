@@ -2,11 +2,6 @@
 
 Welcome to my profile! I'm **Nurfadli Febriana**, a passionate developer and tech enthusiast, currently exploring the world of coding and technology. I'm always excited to learn, collaborate, and work on cool projects!
 
-## About Me
-- 🎓 I am a student at **Universitas Sebelas April Sumedang**, majoring in **Informatics Engineering**.
-- tbd
-
-
 <p align="center">
     <img src = "https://discord.c99.nl/widget/theme-1/595096919437475840.png">
 </p>
