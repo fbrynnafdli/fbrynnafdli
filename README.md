@@ -30,7 +30,7 @@ Welcome to my profile! I'm **Nurfadli Febriana**, a passionate developer and tec
   <a href="https://www.instagram.com/fbrynnafdli">
     <img src="https://img.shields.io/badge/-fbrynnafdli-E4405F?style=flat&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/nurfadlifebrianayusup">
+  <a href="https://www.linkedin.com/in/nurfadlifebrianayusup">
     <img src="https://img.shields.io/badge/-Nurfadli Febriana-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
 </p>
